@@ -1,0 +1,3 @@
+Factor de Impulso: -743.377 Factor de Latitud: 488778, Etiqueta predicha: 0
+Factor de Impulso: -922.731 Factor de Latitud: 348593, Etiqueta predicha: 0
+Factor de Impulso: -744.007 Factor de Latitud: 343374, Etiqueta predicha: 0
